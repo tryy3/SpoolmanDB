@@ -120,6 +120,10 @@
                     "hex": "000000"
                 },
                 {
+                    "name": "White",
+                    "hex": "000000"
+                },
+                {
                     "name": "Yellow (Glow Yellow)",
                     "hex": "FFFF00"
                 },
