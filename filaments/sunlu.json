@@ -20,6 +20,10 @@
                 {
                     "name": "Transparent Green",
                     "hex": "16BA36"
+                },
+                {
+                    "name": "Black",
+                    "hex": "000000"
                 }
             ]
         },
