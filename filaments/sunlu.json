@@ -112,24 +112,108 @@
             "glow": true,
             "colors": [
                 {
-                    "name": "White (Glow Green)",
-                    "hex": "000000"
-                },
-                {
-                    "name": "White (Glow Blue)",
+                    "name": "Black",
                     "hex": "000000"
                 },
                 {
                     "name": "White",
-                    "hex": "000000"
+                    "hex": "FFFFFF"
                 },
                 {
-                    "name": "Yellow (Glow Yellow)",
+                    "name": "Grey",
+                    "hex": "808080"
+                },
+                {
+                    "name": "Gold",
+                    "hex": "FFD700"
+                },
+                {
+                    "name": "Silver",
+                    "hex": "C0C0C0"
+                },
+                {
+                    "name": "Sunny Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Pink (Sakura Pink)",
+                    "hex": "FFC0CB"
+                },
+                {
+                    "name": "Lemon Yellow",
+                    "hex": "FFF44F"
+                },
+                {
+                    "name": "Sky Blue",
+                    "hex": "87CEEB"
+                },
+                {
+                    "name": "Skin (Beige)",
+                    "hex": "F5DEB3"
+                },
+                {
+                    "name": "Fuchsia",
+                    "hex": "FF00FF"
+                },
+                {
+                    "name": "Mint Green",
+                    "hex": "98FF98"
+                },
+                {
+                    "name": "Blue Grey",
+                    "hex": "6699CC"
+                },
+                {
+                    "name": "Orange",
+                    "hex": "FFA500"
+                },
+                {
+                    "name": "Cyan",
+                    "hex": "00FFFF"
+                },
+                {
+                    "name": "Cherry Red",
+                    "hex": "D2042D"
+                },
+                {
+                    "name": "Red",
+                    "hex": "FF0000"
+                },
+                {
+                    "name": "Yellow",
                     "hex": "FFFF00"
                 },
                 {
-                    "name": "Red (Glow Orange)",
+                    "name": "Grass Green",
+                    "hex": "7CFC00"
+                },
+                {
+                    "name": "Green",
+                    "hex": "008000"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "800080"
+                },
+                {
+                    "name": "Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Transparent (Clear)",
+                    "hex": "FFFFFF"
+                },
+                {
+                    "name": "Transparent (Clear) Red",
                     "hex": "FF0000"
+                },
+                {
+                    "name": "Transparent (Clear) Blue",
+                    "hex": "0000FF"
+                },
+                {
+                    "name": "Transparent (Clear) Green",
+                    "hex": "008000"
                 }
             ]
         }
